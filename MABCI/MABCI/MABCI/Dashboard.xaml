@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MABCI.Dashboard">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="back.jpg" Aspect="AspectFill" Opacity="0.8"/>
+            <BoxView Color="LightGreen" Opacity="0.4"/>
+            
+            <Grid>
+                <ImageButton BackgroundColor="Transparent"
+                Grid.Column="0"
+                x:Name="presilabico" 
+                Source="pres.png"/>
+                
+                <ImageButton BackgroundColor="Transparent"
+                Grid.Column="1"
+                x:Name="silabico"
+                Source="sil.png"
+            />
+                
+                <ImageButton BackgroundColor="Transparent"
+                Grid.Column="2"
+                x:Name="alfabetico"
+                Source="alf.png"
+            ></ImageButton>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

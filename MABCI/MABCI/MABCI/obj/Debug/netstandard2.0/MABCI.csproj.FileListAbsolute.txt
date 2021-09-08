@@ -1,0 +1,16 @@
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\bin\Debug\netstandard2.0\MABCI.deps.json
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\bin\Debug\netstandard2.0\MABCI.dll
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\bin\Debug\netstandard2.0\ref\MABCI.dll
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\bin\Debug\netstandard2.0\MABCI.pdb
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.csproj.AssemblyReference.cache
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.AssemblyInfoInputs.cache
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.AssemblyInfo.cs
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.dll
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\ref\MABCI.dll
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\MABCI.pdb
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+C:\Users\drago\OneDrive\Escritorio\MABCI\MABCI\MABCI\obj\Debug\netstandard2.0\Login.xaml.g.cs
